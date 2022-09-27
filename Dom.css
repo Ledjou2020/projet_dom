@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+.primary{
+    background-color: aliceblue;
+    margin-left: 50px;
+}
+table{
+    
+  }
+  
+  td{
+    border: 1px solid black;
+    padding: 10px;
+  }
+  .image{
+    height: 50px;
+    width: 70px;
+  }
+  .btn-moins{
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+  }
+
+  .btn-plus{
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+  }
+  .nb{
+    height: 40px;
+    width: 70px;
+  }
+  .nb1{
+    height:40px;
+    width: 70px;
+
+  }
+  .na{
+    height: 30px;
+    width: 50px;
+  }
+  .ajout{
+    border-radius: 50px;
+    text-align: center;
+    color: blue;
+    
+  }
+  .box_container{
+    margin: 20px;
+  }
+  h2{
+    color: aliceblue;
+    margin-left: 50px;
+  }
+  h4{
+    color: aliceblue;
+    margin-left: 180px;
+  }
+  .col{
+    color: blue;
+  }
